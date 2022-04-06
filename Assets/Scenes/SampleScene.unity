@@ -351,7 +351,7 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_Sprite: {fileID: -7815652836739853191, guid: e17d54a3ceaf59e45b592a9b094f2165, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 5.12, y: 5.12}
@@ -392,7 +392,7 @@ Rigidbody2D:
   m_GravityScale: 100
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 2
+  m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!61 &1206873412
